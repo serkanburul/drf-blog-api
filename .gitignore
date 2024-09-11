@@ -1,0 +1,12 @@
+
+__pycache__/
+env/
+venv/
+.env
+.venv
+*.log
+*.pot
+*.pyc
+media/
+.idea/
+.DS_Store
